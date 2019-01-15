@@ -25,7 +25,6 @@ end files with a newline]
 	 git push
 	 fg
        The last of these will bring emacs back
-	   
 (5) Grade the assignment, get your feedback (and the next assignment)
   Suspend emacs (C-z)
      grade
